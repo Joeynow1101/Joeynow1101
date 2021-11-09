@@ -6,6 +6,9 @@ Ich mag:
 - Fotografieren
 - kochen
 
+<img src="Heide Twitter.jpg" alt="Heide" width="400"/>
+
+
 ich lerne:
 - HTML5, CSS3, JavaScript ES2020, React 17, styled-components, React Styleguidist, React Router
 - Node.js, npm, Express, MongoDB, mongoose, Git/Github Workflow
