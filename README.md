@@ -2,7 +2,7 @@
 mein Name ist Joel und ich bin ein Web Entwickler aus Gelsenkirchen.</br>
 Ich habe ein Bootcamp bei **[neue fische](https://www.neuefische.de)** :tropical_fish: absolviert und suche neue Herausforderungen in der IT Branche. 
 
-Nähere Information findet ihr auf meiner [__Portfolioseite__](https://www.joelnowicki.de)
+Nähere Informationen findet ihr auf meiner [__Portfolioseite__](https://www.joelnowicki.de)
 
 ## Ich mag:
 - :guitar: :microphone:
