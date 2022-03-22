@@ -1,6 +1,8 @@
 # Hallo  :wave:
 mein Name ist Joel und ich bin ein Web Entwickler aus Gelsenkirchen.</br>
-Ich habe ein Bootcamp bei **[neue fische](https://https://www.neuefischecom)** :tropical_fish: absolviert und suche neue Herausforderungen in der IT Branche. 
+Ich habe ein Bootcamp bei **[neue fische](https://www.neuefische.de)** :tropical_fish: absolviert und suche neue Herausforderungen in der IT Branche. 
+
+Nähere Information findet ihr auf meiner [__Portfolioseite__](https://www.joelnowicki.de)
 
 ## Ich mag:
 - :guitar: :microphone:
